@@ -14,7 +14,7 @@ Kode Program:
 <img src="Perulangan2.png">
 
 Output: 
-<img src="perulangan3.png">
+<img src="Perulangan3.png">
 
 ## Array
 Kode Program: 
