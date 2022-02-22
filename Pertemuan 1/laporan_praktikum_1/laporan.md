@@ -2,15 +2,15 @@
 
 ## Pemilihan 
 Kode Program: 
-<img src="Pemilihan1.JPG">
-<img src="Pemilihan2.JPG">
+<img src="Pemilihan1.jpg">
+<img src="Pemilihan2.jpg">
 
 Output: 
 <img src="Pemilihan3.png">
 
 ## Perulangan 
 Kode Program: 
-<img src="Perulangan1.JPG">
+<img src="Perulangan1.jpg">
 <img src="Perulangan2.png">
 
 Output: 
@@ -18,8 +18,8 @@ Output:
 
 ## Array
 Kode Program: 
-<img src="Array1.JPG">
-<img src="Array2.JPG">
+<img src="Array1.jpg">
+<img src="Array2.jpg">
 
 Output: 
 <img src="Array3.png">
