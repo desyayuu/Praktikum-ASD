@@ -39,3 +39,27 @@ contoh : b1.hargaSatuan , b1.tampilBarang();
 2. Baris tersebut melakukan instansiasi dengan konstruktor berparameter dengan nama objek b2 (memberikan nilai pada konstruktor berparameter)
 
 3. Barang  b3 = new Barang("MacBook Air", "Apple MacBook", "10", "12000000")
+
+## SubBab 2.5 Latihan Praktikum 
+1. 
+Kode Program
+
+<img src="jobs2lat1.1.jpg">
+<img src="jobs2lat1.2.jpg">
+
+Output 
+<img src="jobs2lat1.3.jpg">
+
+
+2. Kode Program
+
+<img src="jobs2lat2.1.jpg">
+<img src="jobs2lat2.2.jpg">
+<img src="jobs2lat2.3.jpg">
+<img src="jobs2lat2.4.jpg">
+
+Output 
+<img src="jobs2lat2.5.jpg">
+<img src="jobs2lat2.6.jpg">
+<img src="jobs2lat2.7.jpg">
+
