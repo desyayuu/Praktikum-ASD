@@ -48,18 +48,25 @@ Kode Program
 <img src="jobs2lat1.2.jpg">
 
 Output 
+
 <img src="jobs2lat1.3.jpg">
 
 
 2. Kode Program
 
 <img src="jobs2lat2.1.jpg">
+
 <img src="jobs2lat2.2.jpg">
+
 <img src="jobs2lat2.3.jpg">
+
 <img src="jobs2lat2.4.jpg">
 
 Output 
+
 <img src="jobs2lat2.5.jpg">
+
 <img src="jobs2lat2.6.jpg">
+
 <img src="jobs2lat2.7.jpg">
 
