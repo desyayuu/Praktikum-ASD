@@ -1,12 +1,11 @@
-#Laporan Praktikum Pertemuan 3 
+# Laporan Praktikum Pertemuan 3 
 oleh Desy Ayuranti - 10 - 2141720119 - (TI -1G)
-
-##SubBab 3.2.2 
+## SubBab 3.2.2 
 Verifikasi Hasil Percobaan
 
 <img src="jobs3_3.2.1.jpg">
 
-##SubBab 3.2.3 Pertanyaan 
+## SubBab 3.2.3 Pertanyaan 
 1. Berdasarkan uji coba 3.2, apakah class yang akan dibuat array of object harus selalu memiliki
    atribut dan sekaligus method?Jelaskan!
 
@@ -26,11 +25,11 @@ Verifikasi Hasil Percobaan
 
 
 
-##SubBab 3.3.2 
+## SubBab 3.3.2 
 Verifikasi Hasil Percobaan
 <img src="jobs3_3.3.2.jpg">
 
-##SubBab 3.3.3 Pertanyaan 
+## SubBab 3.3.3 Pertanyaan 
 1. Apakah array of object dapat diimplementasikan pada array 2 Dimensi?
 
    **Bisa, array of object bisa diimplementasikan pada array 2 dimensi**
@@ -64,11 +63,11 @@ pgArray [5] = new Persegi();
    **Boleh, akan tetapi program menjadi kurang efisien. Agar lebih efisien, kita bisa menggunakan perulangan untuk instansiasi array of objek**
 
 
-##SubBab 3.4.2 
+## SubBab 3.4.2 
 Verifikasi Hasil Percobaan
 <img src="jobs3_3.4.2.jpg">
 
-##SubBab 3.4.3 Pertanyaan
+## SubBab 3.4.3 Pertanyaan
 1. Dapatkah konstruktor berjumlah lebih dalam satu kelas? Jelaskan dengan contoh!
 
    **Ya, konstruktor boleh berjumlah lebih dari 1**
@@ -112,7 +111,7 @@ class kubus{
 
    <img src = "jobs3_3.4.6.jpg">
 
-##3.5 Latihan Praktikum 
+## 3.5 Latihan Praktikum 
 1. Kode Program:
 
    <img src="jobs3_Lat1.1.jpg">
