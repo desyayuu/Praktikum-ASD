@@ -123,8 +123,8 @@ class kubus{
 
    <img src="jobs3_Lat1.5.jpg">
    <img src="jobs3_Lat1.6.jpg">
-   <img src="jobs3_Lat2.7.jpg">
-   <img src="jobs3_Lat2.8.jpg">
+   <img src="jobs3_Lat1.7.jpg">
+   <img src="jobs3_Lat1.8.jpg">
 
 2. Kode Program:
 
