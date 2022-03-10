@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class LoopPP{
+class PersegiPanjang{
     public int panjang;
     public int lebar;
 }
