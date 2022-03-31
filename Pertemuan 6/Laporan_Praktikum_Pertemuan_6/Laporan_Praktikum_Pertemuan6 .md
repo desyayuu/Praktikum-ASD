@@ -1,7 +1,7 @@
-#Laporan Praktikum Pertemuan 6 
+# Laporan Praktikum Pertemuan 6 
 oleh Desy Ayurianti- (TI 1G)- 10 - 2141720119 
 
-##SubBab5.2.3
+## SubBab5.2.3
 1. Proses Buble Short terdapat pada method void bubbleSort pada class DaftarMahasiswaBerprestasi
 2. Proses selection masih belum ada dalam method dan class
 3. swap merupakan proses pertukaran tempat / indeks dari nilai. Nilai yang lebih besar akan dipindah posisinya ke kiri
@@ -25,7 +25,7 @@ oleh Desy Ayurianti- (TI 1G)- 10 - 2141720119
    d. perulangan i berlangsung 50, bubble sort melakukan perulangan 49
 
 
-##SubBab5.3.3
+## SubBab5.3.3
 Proses tersebut digunakan untuk mengurutkan nilai dari yang terkecil dengan menggunakan selection sort dimana ada variabel idxMin sebagai indeks dari kunci pembanding yang merupakan perulangan dari i. kemudian dilakukan perulangan lagi untuk nilai pembanding dari kunci pembandingnya dengan j yang dimulai dari i+1 dan syarat j tidak boleh lebih dari banyak nilai. Jika nilai indeks j lebih kecil dari nilai kunci pembanding (idxMin=i) maka idxMin sekarang indeksnya menjadi indeks dari j
 
 Misal: 3,2,1 
@@ -34,7 +34,7 @@ maka idxMin adalah indeks ke-0 dengan nilai 3. j dimulai dari indeks ke-1 dengan
 
 
 
-##SubBab5.4.3
+## SubBab5.4.3
 ```java
 void insertionSort(boolean asc){
         for(int i =1; i< listMhs.length;i++){
@@ -64,7 +64,7 @@ void insertionSort(boolean asc){
 
 
 
-##SubBab5.5 Latihan Praktikum 
+## SubBab5.5 Latihan Praktikum 
 
 Kode Program
 
