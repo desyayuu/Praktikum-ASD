@@ -372,12 +372,12 @@ public class Tugas2 {
 Screenshoot Output: 
 1. Screenshoot cek posisi antrian melalui NIM
 
-<img src = jobs8T2.1>
-<img src = jobs8T2.2>
-<img src = jobs8T2.3>
+<img src = jobs8T2.1.jpg>
+<img src = jobs8T2.2.jpg>
+<img src = jobs8T2.3.jpg>
 
 2. Screenshoot menu tampil data melalui posisi antrian tertentu
 
-<img src = jobs8T2.4>
-<img src = jobs8T2.5>
-<img src = jobs8T2.6>
+<img src = jobs8T2.4.jpg>
+<img src = jobs8T2.5.jpg>
+<img src = jobs8T2.6.jpg>
