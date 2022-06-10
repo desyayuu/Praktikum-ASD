@@ -1,7 +1,7 @@
 ## Laporan Praktikum Pertemuan 14 
 oleh Desy Ayurianti - 1G D4 TI - 2141720119 
 
-###SubBab 2.1.2 
+### SubBab 2.1.2 
 1. Mengapa dalam binary search tree proses pencarian data bisa lebih efektif
    dilakukan dibanding binary tree biasa?
 
@@ -34,7 +34,7 @@ oleh Desy Ayurianti - 1G D4 TI - 2141720119
    ```
    **Jika data yang akan ditambahkan lebih kecil dari current, maka setelah itu dicek lagi apakah ada leftchild dari current atau tidak. Jika ada leftchildnya, maka current sekarang berada di left child dari current awal. Jika tidak ada left child dari current awal, maka data yang akan dimasukkan sekarang menjadi node baru yang bertindak sebgai leftchild dari current **
 
-###SubBab 13.1.1
+### SubBab 13.1.1
 1. Apakah kegunaan dari atribut data dan idxLast yang ada di class
    BinaryTreeArray?
 
@@ -56,73 +56,73 @@ oleh Desy Ayurianti - 1G D4 TI - 2141720119
    **Untuk menunjukkan bahwa indeks terakhir hanya sampai di indeks ke-6**
 
 
-###SubBab 13.3 
+### SubBab 13.3 
 1. Menambahkan Node Secra Rekursif 
    
    Kode Program 
 
-   <img src = "Tugas1.1">
+   <img src = "Tugas1.1.jpg">
 
    Kode Program Main
 
-   <img src = "Tugas1.2">
+   <img src = "Tugas1.2.jpg">
 
    Output
 
-   <img src = "Tugas1.3">
+   <img src = "Tugas1.3.jpg">
 
 2. Menampilkan nilai paling kecil dan paling besar di tree 
 
    Kode Program
 
-   <img src = "Tugas2.1">
+   <img src = "Tugas2.1.jpg">
 
    Kode Program Main
 
-   <img src = "Tugas2.2">
+   <img src = "Tugas2.2.jpg">
 
    Output
 
-   <img src = "Tugas2.3">
+   <img src = "Tugas2.3.jpg">
 
 3. Menampilkan data Leaf 
 
    Kode Program
 
-   <img src = "Tugas3.1">
+   <img src = "Tugas3.1.jpg">
 
    Kode Program Main
 
-   <img src = "Tugas3.2">
+   <img src = "Tugas3.2.jpg">
 
    Output
 
-   <img src = "Tugas3.3">
+   <img src = "Tugas3.3.jpg">
 
 4. Menampilkan jumlah Leaf 
 
    Kode Program
 
-   <img src = "Tugas4.1">
+   <img src = "Tugas4.1.jpg">
 
    Kode Program Main
 
-   <img src = "Tugas4.2">
+   <img src = "Tugas4.2.jpg">
 
    Output
 
-   <img src = "Tugas4.3">
+   <img src = "Tugas4.3.jpg">
 
 5. Method add, traversePreOrder, traversePostOrder di BinaryTreeArray 
 
    Kode Program
 
-   <img src = "Tugas5.1">
+   <img src = "Tugas5.1.jpg">
 
    Kode Program Main
 
-   <img src = "Tugas5.2">
+   <img src = "Tugas5.2.jpg">
 
    Output
 
-   <img src = "Tugas5.3">
+   <img src = "Tugas5.3.jpg">
